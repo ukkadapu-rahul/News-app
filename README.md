@@ -8,7 +8,7 @@ A full-stack news aggregator application that fetches and displays real-time new
 -  Category filtering (e.g., business, sports, technology, etc.)  
 -  Sorting by Newest, Oldest, or Popular  
 -  Pagination for browsing articles  
--  Integrated with [GNews API](https://gnews.io/)  
+-  Integrated with GNews API  
 -  Modular backend with Spring Boot (MVC pattern)  
 -  ReactJS frontend for interactive UI
 
